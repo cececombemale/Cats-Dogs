@@ -1,4 +1,5 @@
-This is a project submitted to HackNY Spring'18 Hackathon.
+# Dogs&Cats
+This is a project submitted to HackNY Spring'18 Hackathon. It won the "Best Use of GIPHY API" award.
 
 As this was our first hackathon, we wanted to have fun and play around with APIs. Also, we wanted to address a social problem.
 
