@@ -1,5 +1,11 @@
 # Dogs&Cats
+
 This is a project submitted to HackNY Spring'18 Hackathon. It won the "Best Use of GIPHY API" award.
+
+![dogscats](https://user-images.githubusercontent.com/29600494/38572968-b0f3c9da-3cc2-11e8-8771-b1e172c45fd3.PNG)
+![30653025_986453244865094_483580688663052288_o](https://user-images.githubusercontent.com/29600494/38573032-d785ce86-3cc2-11e8-872b-97508284a27d.jpg)
+![30530756_986453214865097_8732544363973836800_o](https://user-images.githubusercontent.com/29600494/38573037-da99e77e-3cc2-11e8-8e2d-5e69cfd4dffb.jpg)
+
 
 As this was our first hackathon, we wanted to have fun and play around with APIs. Also, we wanted to address a social problem.
 
